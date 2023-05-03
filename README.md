@@ -5,6 +5,7 @@
 - 😄 Pronomes: Ele/Dele
 - ⚡ Estou a procura de mais conhecimento
 
+<html>
 <div align="center">
   <a href="https://github.com/DaviVidal01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviVidal01&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
@@ -37,3 +38,4 @@
   <a href="https://www.linkedin.com/in/davividal06" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://github.com/DaviVidal01/" target="_blank"><img src="https://img.shields.io/github/followers/DaviVidal01?label=follow&style=social" target="_blank"></a>
 </div>
+  </html>
