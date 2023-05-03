@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://github.com/DaviVidal01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviVidal01&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviVidal01&hide=html,javascript,css&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviVidal01&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
 ### Programas em Uso 📚
