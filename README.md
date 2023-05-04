@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviVidal01&hide=&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
-### Programas em Uso 📚
+### Programas e Linguagens que Uso 📚
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Davi-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
