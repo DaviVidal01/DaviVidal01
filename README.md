@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/DaviVidal01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviVidal01&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviVidal01&hide=&layout=compact&langs_count=5&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviVidal01&hide=PowerShell,Batchfile,jupyter%20notebook&layout=compact&langs_count=4&theme=merko"/>
 </div>
 
 ### Programas e Linguagens que Uso 📚
