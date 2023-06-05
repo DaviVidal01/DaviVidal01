@@ -37,3 +37,8 @@
   <a href="https://www.linkedin.com/in/davividal06" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://github.com/DaviVidal01/" target="_blank"><img src="https://img.shields.io/github/followers/DaviVidal01?label=follow&style=social" target="_blank"></a>
 </div>
+
+  ##
+  
+### Badges
+<a href="https://10fastfingers.com/typing-test/portuguese"><img src="http://img.10fastfingers.com/badge/typing-test_4_CD.png" alt="Typing Test" /></a><p> Visite o <a href="https://10fastfingers.com/typing-test/portuguese">Typing Test</a> e tente!</p>
