@@ -1,4 +1,4 @@
-### Sobre mim 👋
+# Sobre mim 👋
 
 - 🔭 Atualmente sou: Estudante do Ensino Médio e Curso Técnico de TI
 - 🌱 Atualmente estou estudando: HTML / CSS / SQL / Python / C
@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviVidal01&hide=PowerShell,Batchfile,jupyter%20notebook&layout=compact&langs_count=4&theme=merko"/>
 </div>
 
-### Programas e Linguagens que Uso 📚
+## Programas e Linguagens que Uso 📚
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Davi-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
@@ -26,9 +26,9 @@
   
 </div>
 
-  ##
+###
   
-### Onde me Encontrar 🧭
+## Onde me Encontrar 🧭
 
 <div> 
   <a href="https://instagram.com/davi.vidal13" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -38,7 +38,10 @@
   <a href="https://github.com/DaviVidal01/" target="_blank"><img src="https://img.shields.io/github/followers/DaviVidal01?label=follow&style=social" target="_blank"></a>
 </div>
 
-  ##
+  ###
   
-### Badges
-<a href="https://10fastfingers.com/typing-test/portuguese"><img src="http://img.10fastfingers.com/badge/typing-test_4_CD.png" alt="Typing Test" /></a><p> Visite o <a href="https://10fastfingers.com/typing-test/portuguese">Typing Test</a> e tente!</p>
+## Badges 🏆
+<div>
+  <section><a href="https://10fastfingers.com/typing-test/portuguese"><img src="http://img.10fastfingers.com/badge/typing-test_4_CD.png" alt="Typing Test" width="250px"/></a><p> Visite o <a href="https://10fastfingers.com/typing-test/portuguese">Typing Test</a> e tente!</p></section>
+</div>
+
