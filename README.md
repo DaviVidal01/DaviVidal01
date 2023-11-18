@@ -31,6 +31,7 @@
   <img align="center" alt="Davi-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   <img align="center" alt="Davi-Jasmine" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg">
   <img align="center" alt="Davi-jQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
+  <img align="center" alt="Davi-WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 </div>
 
 ### Programas Linguagens 💻
