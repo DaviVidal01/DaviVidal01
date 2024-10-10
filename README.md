@@ -1,6 +1,7 @@
 # Sobre mim 👋
 
-- 🔭 Atualmente sou: Estudante do Ensino Médio e Curso Técnico de TI
+- 🔭 Curso Técnico: Informática para Internet
+- 👨‍🎓 Formando: Engenharia de Software | ESTACIO
 - 🌱 Atualmente estou estudando: HTML / CSS / SQL / Python / C
 - ⚡ Estou a procura de mais conhecimento
 
